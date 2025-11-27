@@ -3,5 +3,7 @@ git clone "url"
 git add "fichier"
 
 git commit -m "nom ou message"
-
+#pour envoyer les fichier
 git push 
+#pour recuperer les fichier 
+git pull
