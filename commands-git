@@ -1,0 +1,7 @@
+git clone "url"
+
+git add "fichier"
+
+git commit -m "nom ou message"
+
+git push 
